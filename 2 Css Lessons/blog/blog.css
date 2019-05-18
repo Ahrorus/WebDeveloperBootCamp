@@ -1,0 +1,26 @@
+body {
+	border: 15px solid #bbbfc5;
+	margin: 3% 15% 3% 15%;
+	padding: 0px 25px 0px 25px;
+}
+
+h1 {
+	font-family: "Open Sans";
+	font-weight: 750;
+}
+
+h3 {
+	font-family: "Open Sans";
+	text-transform: uppercase;
+	letter-spacing: 3px;
+	color: #44bbff;
+}
+
+p {
+	font-family: "Open Sans";
+}
+
+p:first-of-type {
+	border-left: 8px solid #bbc0c5;
+	padding-left: 5px;
+}
